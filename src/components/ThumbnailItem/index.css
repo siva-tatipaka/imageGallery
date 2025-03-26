@@ -1,0 +1,14 @@
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.thumb-img {
+  height: 55px;
+  width: 50px;
+}
+
+.opacity {
+  opacity: 0.4;
+}
